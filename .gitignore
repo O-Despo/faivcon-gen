@@ -1,4 +1,4 @@
-./bin
-./lib
+bin/
+lib/
 lib64
-python.cfg
+pyvenv.cfg
